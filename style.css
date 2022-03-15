@@ -92,8 +92,8 @@ body{
 }
 
 
-/* for screen lg: 1024px */
-@media (min-width: 1024px){
+/* for screen lg: 768px */
+@media (min-width: 768px){
     .outer_grid{
         display: grid;
         grid-template-columns: repeat(1, minmax(0,1fr));
